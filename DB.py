@@ -1,5 +1,7 @@
 import mysql.connector 
 
+#Committed on this file as well by @DevinDeSilva
+
 # Connect to the MySQL get_planted_treesbase
 db = mysql.connector.connect(
     host="localhost",
